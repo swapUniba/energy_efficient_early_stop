@@ -1,4 +1,4 @@
-Repository for the paper **While My RecSys Gently Weeps: Energy-Efficent Early Stopping with Exponential Moving Average for Green Recommender Systems**, submitted at IEEE Transactions on Sustainable Computing.
+Repository for the paper **While My RecSys Gently Weeps: Energy-Efficent Early Stopping with Exponential Moving Average for Green Recommender Systems**.
 
 ### Abstract
 
